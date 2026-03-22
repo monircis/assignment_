@@ -21,8 +21,9 @@ composer install
 
 3. Copy environment file:
 
+```
 cp .env.example .env
-  
+  ```
 
 4. Generate application key:
 
