@@ -76,4 +76,4 @@ Visit in browser:
 ```
 http://127.0.0.1:8000
 ```
- 
+ You will can  generate report from this  page
